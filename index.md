@@ -11,7 +11,7 @@ song, the app identifies it right on your phone, and the bird comes to live in y
 
 Questions, bug reports, or feedback — email us and we'll get back to you:
 
-**[hgonzembach@gmail.com](mailto:hgonzembach@gmail.com)**
+**[myaviaryforest@gmail.com](mailto:myaviaryforest@gmail.com)**
 
 ## Common questions
 

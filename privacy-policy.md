@@ -86,4 +86,4 @@ We may update this policy as the app evolves. Material changes will be reflected
 
 ## Contact
 
-Questions or requests: **hgonzembach@gmail.com**.
+Questions or requests: **myaviaryforest@gmail.com**.
