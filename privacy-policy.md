@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # The Aviary — Privacy Policy
 
-_Last updated: July 29, 2026_
+_Last updated: October 3, 2026_
 
 The Aviary is a game about discovering the birds around you by their sound. This policy explains, in
 plain language, what the app does with your microphone and your data. It reflects how the app
@@ -20,10 +20,12 @@ world globe.
 
 ## Microphone & recordings
 
-- When you tap **Listen**, the app records a short clip through your microphone and runs the
-  on-device BirdNET model to identify the bird.
-- Recordings are saved **only on your device** (in the app's private storage) so you can play them
-  back later. They are **never uploaded** to our servers or shared with anyone.
+- When you tap **Listen**, the app records through your microphone until you tap finish, leave the
+  app, or 10 minutes pass, and runs the on-device BirdNET model as it listens. Audio is processed on
+  your phone as it arrives; only the most recent 15 seconds are held in memory.
+- A short clip (up to 15 seconds) of each bird you add is saved **only on your device** (in the app's
+  private storage) so you can play it back later. Nothing is **ever uploaded** to our servers or shared
+  with anyone.
 - You can turn off saving recordings at any time in Settings, and deleting the app removes them.
 
 ## Location
@@ -32,6 +34,9 @@ world globe.
   check which species are expected where you are and to flag unusual or out-of-range identifications.
 - Only a **coarse location** (rounded to roughly 11 km) and a general region are ever sent to the
   cloud, to place you on the world globe. Your precise GPS position never leaves your phone.
+- To label how common or rare a bird is near you, the app looks up public **eBird checklist data from GBIF.org**.
+  Only an approximate area (the centre of a grid cell about 25 km across) and the current month are sent; the
+  results are kept on your phone so the lookup isn't repeated. Nothing about you or your recordings is included.
 - If you decline location, the app still works — you just won't get rarity or out-of-range warnings.
 
 ## Account & cloud sync
