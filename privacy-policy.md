@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # The Aviary — Privacy Policy
 
-_Last updated: October 3, 2026_
+_Last updated: November 9, 2026_
 
 The Aviary is a game about discovering the birds around you by their sound. This policy explains, in
 plain language, what the app does with your microphone and your data. It reflects how the app
@@ -16,7 +16,8 @@ actually works.
 Identification happens **on your phone**. Your recordings **never leave your device**. We do not sell
 your data, show ads, or track you across other apps. The only things that sync to the cloud are your
 game save and an approximate location — and only so you can restore your forest and appear on the
-world globe.
+world globe. If you choose to back up with your Apple ID, we also keep the sign-in details Apple
+gives us (see below).
 
 ## Microphone & recordings
 
@@ -50,6 +51,20 @@ world globe.
 - Other players can see your **public profile** (forest name, avatar, bird count, approximate
   location) — never your recordings or your precise location.
 
+## Sign in with Apple (optional)
+
+- You can choose to **back up your forest with your Apple ID**, so a new phone can get it back. This
+  is optional; the app works without it.
+- If you do, Apple gives us a **private identifier** for your Apple ID and an **email address** — your
+  real one or, if you choose "Hide My Email", a private relay address from Apple. We never see your
+  Apple ID password.
+- We use these **only** to recognise your forest when you sign in on another phone. We don't send you
+  marketing email, and we don't share them with anyone other than our cloud provider (Supabase), which
+  stores them for us.
+- If you set up a new iPhone from a backup of your old one, your forest's save and login may be
+  included in **your own iPhone or iCloud backup**. That backup is managed by Apple under your Apple
+  account, not by us.
+
 ## What we do NOT collect
 
 - We do **not** upload or store your audio recordings.
@@ -76,13 +91,18 @@ information, contact us and we will remove it.
 
 - You can grant or revoke microphone and location permission any time in your device Settings.
 - You can turn off "Save recordings" in the app's Settings.
-- You can request deletion of your synced game data by contacting us. Uninstalling the app removes
-  all on-device data, including your recordings.
+- You can **delete your forest** at any time in the app: Settings → **Delete my forest**. This
+  permanently removes your account, game save, public profile, friends, trades, and any Apple sign-in
+  details from our servers, and clears the app's data on your phone. You can also ask us to do it by
+  contacting us.
+- Uninstalling the app removes its on-device data, including your recordings, but does not delete
+  your cloud save — use **Delete my forest** first if you want that removed too.
 
 ## Data retention
 
 On-device data (recordings and your save) remains until you delete it or uninstall the app.
-Cloud-synced save data is kept while your account is active and is removed on request.
+Cloud-synced data (your save, public profile, and any Apple sign-in details) is kept while your account
+exists and is removed when you delete your forest in the app or ask us to.
 
 ## Changes to this policy
 
