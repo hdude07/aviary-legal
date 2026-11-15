@@ -35,10 +35,13 @@ gives us (see below).
   check which species are expected where you are and to flag unusual or out-of-range identifications.
 - Only a **coarse location** (rounded to roughly 11 km) and a general region are ever sent to the
   cloud, to place you on the world globe. Your precise GPS position never leaves your phone.
-- To label how common or rare a bird is near you, the app looks up public **eBird checklist data from GBIF.org**.
+- To label how common or rare a bird is near you, and to list the birds expected near you (the Birdex's
+  "Near you" list and Pip's daily birds to listen for), the app looks up public **eBird checklist data from GBIF.org**.
   Only an approximate area (the centre of a grid cell about 25 km across) and the current month are sent; the
   results are kept on your phone so the lookup isn't repeated. Nothing about you or your recordings is included.
-- If you decline location, the app still works — you just won't get rarity or out-of-range warnings.
+- If you have allowed location, the app may check it when it opens, to keep that list current.
+- If you decline location, the app still works — you just won't get rarity or out-of-range warnings, or the
+  list of birds near you.
 
 ## Account & cloud sync
 
