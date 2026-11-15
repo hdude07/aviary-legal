@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # The Aviary — Privacy Policy
 
-_Last updated: November 9, 2026_
+_Last updated: November 15, 2026_
 
 The Aviary is a game about discovering the birds around you by their sound. This policy explains, in
 plain language, what the app does with your microphone and your data. It reflects how the app
@@ -49,7 +49,11 @@ gives us (see below).
   our cloud provider (Supabase) so you can restore your forest and use the globe, friends, and
   trading features.
 - Other players can see your **public profile** (forest name, avatar, bird count, approximate
-  location) — never your recordings or your precise location.
+  location) and the **birds you've collected** — never your recordings or your precise location.
+- **Friends can visit your forest.** To make that possible, your forest's layout (which habitats you
+  have unlocked and where your decorations are placed) is stored alongside your public profile.
+  Visitors can look around but cannot change anything. Your rocks, purchases, and the dates and
+  places of your finds are not part of it.
 
 ## Sign in with Apple (optional)
 
