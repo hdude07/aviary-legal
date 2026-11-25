@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # The Aviary — Privacy Policy
 
-_Last updated: November 15, 2026_
+_Last updated: November 24, 2026_
 
 The Aviary is a game about discovering the birds around you by their sound. This policy explains, in
 plain language, what the app does with your microphone and your data. It reflects how the app
@@ -33,8 +33,12 @@ gives us (see below).
 
 - Location is **optional**. If you grant it, the app uses your coordinates **on your device** to
   check which species are expected where you are and to flag unusual or out-of-range identifications.
-- Only a **coarse location** (rounded to roughly 11 km) and a general region are ever sent to the
-  cloud, to place you on the world globe. Your precise GPS position never leaves your phone.
+- Your public profile only ever gets a **coarse location** (rounded to roughly 11 km) and a general
+  region, to place you on the world globe.
+- When you record a new bird with location turned on, the app saves where you recorded it so you can
+  see your birds by place. To show a place name such as "Davie, FL", the app sends that location to your
+  phone maker's place-name service (Apple on iPhone). The location and place name are stored in your
+  **private save**. Other players can't see them.
 - To label how common or rare a bird is near you, and to list the birds expected near you (the Birdex's
   "Near you" list and Pip's daily birds to listen for), the app looks up public **eBird checklist data from GBIF.org**.
   Only an approximate area (the centre of a grid cell about 25 km across) and the current month are sent; the
