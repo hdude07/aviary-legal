@@ -1,0 +1,271 @@
+{
+ "v": 1,
+ "source": "IOC World Bird List v15.2 (multilingual), Gill, Donsker & Rasmussen (Eds), worldbirdnames.org, CC BY 3.0",
+ "birds": 10114,
+ "languages": [
+  {
+   "code": "zh-Hans",
+   "label": "简体中文",
+   "english": "Chinese",
+   "count": 9864
+  },
+  {
+   "code": "nl",
+   "label": "Nederlands",
+   "english": "Dutch",
+   "count": 9864
+  },
+  {
+   "code": "eo",
+   "label": "Esperanto",
+   "english": "Esperanto",
+   "count": 9864
+  },
+  {
+   "code": "fr",
+   "label": "Français",
+   "english": "French",
+   "count": 9864
+  },
+  {
+   "code": "pt",
+   "label": "Português",
+   "english": "Portuguese (Lusophone)",
+   "count": 9864
+  },
+  {
+   "code": "sk",
+   "label": "Slovenčina",
+   "english": "Slovak",
+   "count": 9864
+  },
+  {
+   "code": "sv",
+   "label": "Svenska",
+   "english": "Swedish",
+   "count": 9864
+  },
+  {
+   "code": "nb",
+   "label": "Norsk",
+   "english": "Norwegian",
+   "count": 9862
+  },
+  {
+   "code": "da",
+   "label": "Dansk",
+   "english": "Danish",
+   "count": 9836
+  },
+  {
+   "code": "pl",
+   "label": "Polski",
+   "english": "Polish",
+   "count": 9833
+  },
+  {
+   "code": "pt-PT",
+   "label": "Português (Portugal)",
+   "english": "Portuguese (Portuguese)",
+   "count": 9793
+  },
+  {
+   "code": "de",
+   "label": "Deutsch",
+   "english": "German",
+   "count": 9760
+  },
+  {
+   "code": "es",
+   "label": "Español",
+   "english": "Spanish",
+   "count": 9758
+  },
+  {
+   "code": "uk",
+   "label": "Українська",
+   "english": "Ukrainian",
+   "count": 9735
+  },
+  {
+   "code": "ru",
+   "label": "Русский",
+   "english": "Russian",
+   "count": 9621
+  },
+  {
+   "code": "hr",
+   "label": "Hrvatski",
+   "english": "Croatian",
+   "count": 9584
+  },
+  {
+   "code": "tr",
+   "label": "Türkçe",
+   "english": "Turkish",
+   "count": 9575
+  },
+  {
+   "code": "ja",
+   "label": "日本語",
+   "english": "Japanese",
+   "count": 9562
+  },
+  {
+   "code": "zh-Hant",
+   "label": "繁體中文",
+   "english": "Chinese (Traditional)",
+   "count": 9548
+  },
+  {
+   "code": "cs",
+   "label": "Čeština",
+   "english": "Czech",
+   "count": 9215
+  },
+  {
+   "code": "ca",
+   "label": "Català",
+   "english": "Catalan",
+   "count": 9199
+  },
+  {
+   "code": "fi",
+   "label": "Suomi",
+   "english": "Finnish",
+   "count": 9156
+  },
+  {
+   "code": "it",
+   "label": "Italiano",
+   "english": "Italian",
+   "count": 9140
+  },
+  {
+   "code": "lt",
+   "label": "Lietuvių",
+   "english": "Lithuanian",
+   "count": 9031
+  },
+  {
+   "code": "sr",
+   "label": "Srpski",
+   "english": "Serbian",
+   "count": 7282
+  },
+  {
+   "code": "hu",
+   "label": "Magyar",
+   "english": "Hungarian",
+   "count": 5815
+  },
+  {
+   "code": "et",
+   "label": "Eesti",
+   "english": "Estonian",
+   "count": 5085
+  },
+  {
+   "code": "lv",
+   "label": "Latviešu",
+   "english": "Latvian",
+   "count": 1965
+  },
+  {
+   "code": "id",
+   "label": "Bahasa Indonesia",
+   "english": "Indonesian",
+   "count": 1723
+  },
+  {
+   "code": "bg",
+   "label": "Български",
+   "english": "Bulgarian",
+   "count": 1345
+  },
+  {
+   "code": "he",
+   "label": "עברית",
+   "english": "Hebrew",
+   "count": 1118
+  },
+  {
+   "code": "sl",
+   "label": "Slovenščina",
+   "english": "Slovenian",
+   "count": 1064
+  },
+  {
+   "code": "th",
+   "label": "ไทย",
+   "english": "Thai",
+   "count": 1015
+  },
+  {
+   "code": "is",
+   "label": "Íslenska",
+   "english": "Icelandic",
+   "count": 951
+  },
+  {
+   "code": "af",
+   "label": "Afrikaans",
+   "english": "Afrikaans",
+   "count": 936
+  },
+  {
+   "code": "se",
+   "label": "Davvisámegiella",
+   "english": "Northern Sami",
+   "count": 931
+  },
+  {
+   "code": "ar",
+   "label": "العربية",
+   "english": "Arabic",
+   "count": 580
+  },
+  {
+   "code": "ko",
+   "label": "한국어",
+   "english": "Korean",
+   "count": 570
+  },
+  {
+   "code": "ml",
+   "label": "മലയാളം",
+   "english": "Malayalam",
+   "count": 550
+  },
+  {
+   "code": "fa",
+   "label": "فارسی",
+   "english": "Persian",
+   "count": 548
+  },
+  {
+   "code": "el",
+   "label": "Ελληνικά",
+   "english": "Greek",
+   "count": 517
+  },
+  {
+   "code": "ro",
+   "label": "Română",
+   "english": "Romanian",
+   "count": 415
+  },
+  {
+   "code": "mk",
+   "label": "Македонски",
+   "english": "Macedonian",
+   "count": 384
+  },
+  {
+   "code": "be",
+   "label": "Беларуская",
+   "english": "Belarusian",
+   "count": 331
+  }
+ ]
+}
